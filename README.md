@@ -10,7 +10,7 @@ Example output: <br />
   “algorithm” : “quicksort”, <br />
   “timeMS” 	: 52 } <br />
 The output JSON must also include the name of the algorithm and the amount of time taken to execute the sort, in milliseconds.
-Erroneous input (e.g. malformed JSON) should be handled gracefully with an error message.  
+<br />Erroneous input (e.g. malformed JSON) should be handled gracefully with an error message.  
  Example error:	<br />{ “message”	: “Malformed JSON” } 
 
 ## Deliverable
